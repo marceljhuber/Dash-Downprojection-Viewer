@@ -15,7 +15,7 @@ cd interactive-dash-downprojection
 
 # Download the required images and w vectors from Hugging Face:
 # You can download the necessary data from the following Hugging Face repository:
-# Marcel Huber's Hugging Face Repository: https://huggingface.co/marcelhuber/downprojection_images
+# Marcel Huber's Hugging Face Repository: https://huggingface.co/datasets/marcelhuber/downprojection_images
 # Make sure to download the images and w vectors and place them in the appropriate directories within this project.
 
 # Run the desired script to start the local Dash instance:
