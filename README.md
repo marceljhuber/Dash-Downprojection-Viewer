@@ -8,7 +8,7 @@ To use this tool, follow these steps:
 
 ```bash
 # Clone this repository to your local machine:
-git clone https://github.com/yourusername/interactive-dash-downprojection.git
+git clone https://github.com/marceljhuber/Dash-Downprojection-Viewer
 
 # Navigate to the project directory:
 cd interactive-dash-downprojection
